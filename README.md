@@ -25,6 +25,18 @@ Two complementary batch scripts to easily switch between classic and modern Wind
 
 Windows 11 introduced a simplified right-click context menu that hides many useful options behind a "Show more options" submenu. These scripts allow you to easily switch between the classic full-featured context menu and the modern simplified version.
 
+## 📸 Visual Comparison
+
+See the difference between the two context menu styles:
+
+### Classic Context Menu (Windows 10 Style)
+![Classic Context Menu](images/Classic%20menu.png)
+*Full-featured context menu with all options visible*
+
+### Modern Context Menu (Windows 11 Style)
+![Modern Context Menu](images/Modern%20menu.png)
+*Simplified context menu with "Show more options" submenu*
+
 ## 📦 Scripts Included
 
 ### 🔧 `Win11-Classic-ContextMenu-Restore.bat`
